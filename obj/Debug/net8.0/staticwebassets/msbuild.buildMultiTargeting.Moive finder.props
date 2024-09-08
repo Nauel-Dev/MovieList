@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moive finder.props" />
+</Project>
